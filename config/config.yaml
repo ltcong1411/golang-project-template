@@ -1,0 +1,5 @@
+mongo:
+  enable: true
+  addr: 10.60.3.32:6379
+  password:
+  db: 5

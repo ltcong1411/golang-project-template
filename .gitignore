@@ -1,0 +1,7 @@
+vendor
+mockery
+*.txt
+.DS_Store
+*.out
+test
+example
